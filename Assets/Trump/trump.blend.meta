@@ -1,0 +1,1566 @@
+fileFormatVersion: 2
+guid: de1207842161245278a7313757fd08be
+timeCreated: 1485006830
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: brow_L
+    100002: brow_R
+    100004: chest
+    100006: combover_1
+    100008: combover_2
+    100010: combover_3
+    100012: combover_4
+    100014: foot_L
+    100016: foot_R
+    100018: hand_L
+    100020: hand_R
+    100022: head
+    100024: hips
+    100026: lower_arm_L
+    100028: lower_arm_R
+    100030: neck
+    100032: shin_L
+    100034: shin_R
+    100036: shoulder_L
+    100038: shoulder_R
+    100040: thigh_L
+    100042: thigh_R
+    100044: tie
+    100046: tie_001
+    100048: tie_002
+    100050: tie_003
+    100052: tie_004
+    100054: tie_005
+    100056: tie_006
+    100058: tie_007
+    100060: torso
+    100062: //RootNode
+    100064: trump
+    100066: trump_armature
+    100068: upper_arm_L
+    100070: upper_arm_R
+    400000: brow_L
+    400002: brow_R
+    400004: chest
+    400006: combover_1
+    400008: combover_2
+    400010: combover_3
+    400012: combover_4
+    400014: foot_L
+    400016: foot_R
+    400018: hand_L
+    400020: hand_R
+    400022: head
+    400024: hips
+    400026: lower_arm_L
+    400028: lower_arm_R
+    400030: neck
+    400032: shin_L
+    400034: shin_R
+    400036: shoulder_L
+    400038: shoulder_R
+    400040: thigh_L
+    400042: thigh_R
+    400044: tie
+    400046: tie_001
+    400048: tie_002
+    400050: tie_003
+    400052: tie_004
+    400054: tie_005
+    400056: tie_006
+    400058: tie_007
+    400060: torso
+    400062: //RootNode
+    400064: trump
+    400066: trump_armature
+    400068: upper_arm_L
+    400070: upper_arm_R
+    4300000: trump
+    7400000: Default Take
+    7400002: paint_spread_pose
+    7400004: trump_armatureAction
+    7400006: combover_down
+    7400008: combover_up
+    7400010: head_down
+    7400012: head_L
+    7400014: head_R
+    7400016: head_up
+    7400018: hips_back
+    7400020: hips_forward
+    7400022: hips_L
+    7400024: hips_R
+    7400026: idle_action
+    7400028: surf_stance
+    7400030: surf_stance_low
+    9500000: //RootNode
+    13700000: trump
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: combover_down
+      takeName: combover_down
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: combover_up
+      takeName: combover_up
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: head_down
+      takeName: head_down
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: head_L
+      takeName: head_L
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: head_R
+      takeName: head_R
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: head_up
+      takeName: head_up
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hips_back
+      takeName: hips_back
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hips_forward
+      takeName: hips_forward
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hips_L
+      takeName: hips_L
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hips_R
+      takeName: hips_R
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_action
+      takeName: idle_action
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: surf_stance
+      takeName: surf_stance
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: surf_stance_low
+      takeName: surf_stance_low
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trump
+        weight: 1
+      - path: trump_armature
+        weight: 1
+      - path: trump_armature/hips
+        weight: 1
+      - path: trump_armature/hips/thigh_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L
+        weight: 1
+      - path: trump_armature/hips/thigh_L/shin_L/foot_L
+        weight: 1
+      - path: trump_armature/hips/thigh_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R
+        weight: 1
+      - path: trump_armature/hips/thigh_R/shin_R/foot_R
+        weight: 1
+      - path: trump_armature/hips/torso
+        weight: 1
+      - path: trump_armature/hips/torso/chest
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/brow_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3
+        weight: 1
+      - path: trump_armature/hips/torso/chest/neck/head/combover_1/combover_2/combover_3/combover_4
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006
+        weight: 1
+      - path: trump_armature/hips/torso/chest/tie/tie_001/tie_002/tie_003/tie_004/tie_005/tie_006/tie_007
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
