@@ -42,3 +42,4 @@ Temp/*
 *.log
 build
 Builds
+/Resources
